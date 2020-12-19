@@ -6,8 +6,6 @@ Instructions and Extensive documentation comming soon.
 
 Summery:
 
-<p>Hello</p>
-
 Andrew Sheret Limited (ASL) is a local company in Victoria BC, responsible for distributing
 plumbing and heating equipment across Canada [1]. Mr. Andrew Sheret first opened the business
 in 1892, and now it has expanded across Canada and into the online world, with its “Plumbing
